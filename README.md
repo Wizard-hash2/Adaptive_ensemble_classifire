@@ -1,2 +1,2 @@
 # Adaptive_ensemble_classifire
-This repo contains bagging, variance of a model by drawing random bootstrap samples from the training dataset and combining the individually trained classifiers via majority vote; AdaBoost and gradient boosting, which are algorithms based on training weak learners that learn from mistakes.
+The goal of ensemble methods is to combine different classifiers into a meta-classifier that has better generalization performance than each individual classifier alone. For example, assuming that we collected predictions from 10 experts, ensemble methods would allow us to strategically combine those predictions by the 10 experts to come up with a prediction that was more accurate and robust than the predictions by each individual expert
